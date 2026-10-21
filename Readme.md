@@ -19,5 +19,5 @@ You bring the snacks, I’ll bring the code 🍪 💻
 
 ## 💻 Tech Stack:
 
-Python · Azure · MySQL · Microsoft SQL Server  Figma ·
-  Power BI · Fabric
+Python · MS Azure · MySQL · Microsoft SQL Server Figma ·
+  Power BI · Fabric. Advanced Excel.PySpark.Power automate
